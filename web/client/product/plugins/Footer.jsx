@@ -36,7 +36,7 @@ class Footer extends React.Component {
     static defaultProps = {
         logo: {
             src,
-            width: 140,
+            width: 200,
             height: 'auto',
             href: 'http://www.rse-web.it/home.page',
             title: 'RSE',

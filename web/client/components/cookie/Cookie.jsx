@@ -75,7 +75,8 @@ class Cookie extends React.Component {
                 </a>
             ) : (
                 <Button
-                    onClick={() => this.moreDetails()}
+                    // onClick={() => this.moreDetails()}
+                    onClick={() => window.open('https://www.rse-web.it/cookie/', '_blank')}
                     className="cookie-button"
                     id="decline-cookie"
                     bsStyle="primary" >

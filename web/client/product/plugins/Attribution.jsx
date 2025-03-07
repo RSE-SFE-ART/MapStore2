@@ -48,7 +48,7 @@ export default {
                 position: 0,
                 label: props.label || 'RSE',
                 href: props.href || 'http://www.rse-web.it/',
-                img: props.src && <img className="customer-logo" src={props.src} height="30" /> || <img className="customer-logo" src={src} height="30" />,
+                img: props.src && <img className="customer-logo" src={props.src} height="45" /> || <img className="customer-logo" src={src} height="45" />,
                 logo: true
             })
         }

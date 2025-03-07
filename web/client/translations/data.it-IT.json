@@ -183,7 +183,7 @@
             "tooltipActivate": "Attiva la modalità 3D"
         },
         "cookie":{
-            "info": "Questo sito web usa i cookie per migliorare la tua esperienza. Assumiamo che sei d'accordo sul loro utilizzo, ma puoi lasciare il sito se sei contrario.",
+            "info": "Questo sito utilizza cookie per il corretto funzionamento e per il miglioramento dei servizi inclusi. Se vuoi continuare la navigazione del sito acconsenti all'uso dei cookie cliccando Accetto. Se non vuoi ricevere cookie dal sito, chiudi la presente pagina.",
             "moreDetailsButton": "Più dettagli",
             "leave": "Lascia il sito",
             "accept": "Accetto"
@@ -281,7 +281,7 @@
         "home":{
             "titolo_pagina": "Geoportale Energia e Territorio",
             "open": "Apri",
-            "shortDescription": "Il Geoportale di RSE - versione 2021 <br/><small><a href=\"http://www.rse-web.it\" target='_blank'>Visita il sito di RSE</a></small>",
+            "shortDescription": "Il Geoportale di RSE <br/><small><a href=\"http://www.rse-web.it\" target='_blank'>Visita il sito di RSE</a></small>",
             "forkMeOnGitHub": "Fork me on GitHub",
             "description": "MapStore è sviluppato per creare, salvare e condividere in modo semplice ed intuitivo mappe e mashup creati selezionando contenuti da server come Google Maps, OpenStreetMap, MapQuest o da server specifici forniti dalla propria organizzazione o da terzi. <br/> Visita la <a href=\"https://mapstore.readthedocs.io/en/latest/\">home page</a> per maggiori dettagli.",
             "Applications": "Applicazioni",
@@ -290,7 +290,7 @@
             "RSE_Descrizione": "Il Geoportale Energia e Territorio è un contenitore di informazioni territoriali aventi per oggetto la distribuzione delle diverse fonti energetiche rinnovabili e le loro relazioni con il territorio. Esso costituisce il punto di accesso all'Atlante Integrato, ai principali atlanti tematici e ad altri contenuti interattivi legati ad approfondimenti su aspetti del sistema energetico di particolare rilevanza.",
             "LinkedinGroup": "Gruppo Linkedin Mapstore",
             "scrollTop": "Torna all'inizio della pagina",
-            "footerDescription": "<strong>Ricerca sul Sistema Energetico - RSE S.p.A.</strong> <a href=\"mailto:rse@legalmail.it\">rse@legalmail.it</a> <strong>Italia</strong>: +39 023992.1 <br> <a href=\"http://www.rse-web.it/privacy/\"target='_blank'>Privacy</a>",
+            "footerDescription": "<strong>Ricerca sul Sistema Energetico - RSE S.p.A.</strong> <a href=\"mailto:rse@legalmail.it\">rse@legalmail.it</a> <strong>Italia</strong>: +39 023992.1 <br> <a href=\"https://www.rse-web.it/privacy/\"target='_blank'>Privacy </a><a href=\"https://www.rse-web.it/cookie/\"target='_blank'> - Cookies</a>",
             "ml": {
                 "title": "Resta in contatto e tieniti aggiornato con le mailing list",
                 "subscribe_users": "Sottoscrivi la mailing list degli utenti",
